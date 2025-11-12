@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "apple",
+        "price": 15.9
+    },
+    {
+        "id": 2,
+        "name": "banana",
+        "price": 12.9
+    },
+    {
+        "id": 3,
+        "name": "carrot",
+        "price": 5.9
+    },
+    {
+        "id": 4,
+        "name": "cucumber",
+        "price": 7.9
+    },
+    {
+        "id": 5,
+        "name": "eggplant",
+        "price": 10.9
+    },
+    {
+        "id": 6,
+        "name": "mango",
+        "price": 12.9
+    },
+    {
+        "id": 7,
+        "name": "onion",
+        "price": 5.9
+    }
+]
